@@ -1,9 +1,9 @@
 {
-  "name": "atom-light-syntax",
+  "name": "atom-lightish-syntax",
   "theme": "syntax",
-  "version": "0.29.1",
-  "description": "A light syntax theme",
-  "repository": "https://github.com/atom/atom-light-syntax",
+  "version": "0.0.0",
+  "description": "A syntax theme tweaked from atom light",
+  "repository": "https://github.com/davipatti/atom-lightish-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.40.0"
