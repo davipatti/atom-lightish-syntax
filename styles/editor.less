@@ -2,12 +2,17 @@ atom-text-editor {
   background-color: @syntax-background-color;
   color: @syntax-text-color;
 
+  .syntax--comment {
+      color: @syntax-color-comment;
+  }
+
   .invisible-character {
     color: @syntax-invisible-character-color;
   }
 
   .indent-guide {
     color: @syntax-indent-guide-color;
+    box-shadow: inset 10px 0;
   }
 
   .wrap-guide {
